@@ -1,25 +1,18 @@
 import { CMS_NAME, CMS_URL } from '../lib/constants';
+import Image from 'next/image';
+
 
 export default function Intro() {
   return (
     <>
-      <section className="flex-col md:flex-row flex items-center md:justify-between mt-16 mb-16 md:mb-12 header1 cid-t9fGBrS5Op mbr-fullscreen">
+      <section className="px-4 flex-col md:flex-row flex items-center md:justify-between mb-16 md:mb-12 header1 cid-t9fGBrS5Op mbr-fullscreen">
         <div className="container">
           <div className="row">
             <div className="col-12 col-lg-5">
-              <h1 className="text-6xl md:text-8xl font-bold tracking-tighter leading-tight md:pr-8 mbr-section-title mbr-fonts-style mb-3 display-1">
+              <h1 className="text-6xl font-bold tracking-tighter leading-tight md:pr-8 mbr-section-title mbr-fonts-style mb-3 display-1">
                 BSPE Legal Marketing
               </h1>
-              <h2 className="text-center md:text-left text-lg mt-5 md:pl-8 mbr-section-subtitle mbr-fonts-style mb-3 display-2">
-                <iframe 
-                  src="https://lh3.googleusercontent.com/geougc/AF1QipOQ3wbbnJy_izsvTYa9Xt8calqNzfGFdH_L3FSI=h400-no" 
-                  style={{border: "0px #ffffff none"}}
-                  name="myiFrame" 
-                  height="400px" 
-                  width="600px" 
-                  allowFullScreen
-                ></iframe>
-              </h2>
+              <Image src="/assets/2023-05-03.jpg" alt="Description of Image" width={500} height={500} />
             </div>
           </div>
         </div>

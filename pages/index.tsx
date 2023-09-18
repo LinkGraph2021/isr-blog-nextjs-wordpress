@@ -2,8 +2,6 @@ import Head from 'next/head'
 import { GetStaticProps } from 'next'
 import Container from '../components/container'
 import Header from '../components/header'
-import MoreStories from '../components/more-stories'
-import HeroPost from '../components/hero-post'
 import Intro from '../components/intro'
 import Layout from '../components/layout'
 import { getAllPostsForHome } from '../lib/api'
@@ -17,6 +15,7 @@ export default function Index({ allPosts: { edges }, preview }) {
     <Layout preview={preview}>
       <Head>
         <title>{`Next.js Blog Example with ${CMS_NAME}`}</title>
+        <link href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500&display=swap" rel="stylesheet" />
       </Head>
       <Container>
         <Header/>
