@@ -1,12 +1,19 @@
-import Link from 'next/link'
+import Link from 'next/link';
 
 export default function Header() {
   return (
-    <h2 className="text-2xl md:text-4xl font-bold tracking-tight md:tracking-tighter leading-tight mb-20 mt-8">
-      <Link href="/" className="hover:underline">
-        Blog
-      </Link>
-      .
-    </h2>
+    <section data-bs-version="5.1" className="menu menu1 cid-t9fGzm7kMq" id="menu1-0">
+      <nav className="navbar navbar-dropdown navbar-fixed-top navbar-expand-lg">
+        <div className="container">
+          <div className="navbar-brand">
+            <span className="navbar-caption-wrap">
+              <Link href="#" className="navbar-caption text-black display-7">
+                Personal Injury Attorney
+              </Link>
+            </span>
+          </div>
+        </div>
+      </nav>
+    </section>
   )
 }
