@@ -12,6 +12,9 @@
 @tailwind utilities;
 /* Stop purging. */
 
+@import '../node_modules/dashicons/dashicons.css';
+
+
 /* Your own custom utilities */
 
 body {
@@ -31,6 +34,8 @@ body {
   font-family: 'Jost', sans-serif;
   font-size: 3rem;
   line-height: 1.1;
+  text-align: center;
+  font-weight: 700;
 }
 .display-2 > .mbr-iconfont {
   font-size: 3.75rem;
@@ -55,6 +60,8 @@ body {
   font-family: 'Jost', sans-serif;
   font-size: 1.2rem;
   line-height: 1.5;
+  font-weight: 700;
+  padding-bottom: 18px;
 }
 .display-7 > .mbr-iconfont {
   font-size: 1.5rem;
@@ -1473,8 +1480,8 @@ a {
   top: 0;
 }
 .cid-tNbUWJTv2K {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-tNbUWJTv2K .mbr-fallback-image.disabled {
@@ -1515,8 +1522,8 @@ a {
   margin-bottom: 0;
 }
 .cid-t9j5IJrIY6 {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 0rem !important;
+  padding-bottom: 0rem !important;
   background-color: #ffffff;
 }
 .cid-t9j5IJrIY6 .mbr-fallback-image.disabled {
@@ -1954,3 +1961,76 @@ section:not(.menu) .container {
   transition: none !important; }
 
 
+/* Accordion Styles */
+.card {
+  border-radius: 0.25rem;
+  overflow: hidden;
+  padding-bottom: 35px;
+}
+
+.card-header {
+  padding: 0.75rem 1.25rem;
+  background-color: rgba(0, 0, 0, 0.03);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+  cursor: pointer;
+}
+
+.panel-title {
+  margin: 0;
+  background: transparent;
+  border: none;
+  width: 100%;
+  text-align: left;
+  outline: none;
+}
+
+.panel-body {
+  padding: 0.75rem 1.25rem;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease-in-out;
+}
+
+.open {
+  max-height: 500px;
+}
+.cid-tNbUWJTv2K .panel-body, .cid-tNbUWJTv2K .card-header {
+  padding: 0rem 0 !important;
+}
+div#accordion_1 {
+  width: 100%;
+  max-width: 1070px;
+  margin: 0 auto;
+}
+section.video2.cid-t9j5IJrIY6 .container {
+  width: 1205px;
+  margin: 0 auto;
+}
+.w-full.md\:w-1\/2.video-block {
+  padding: 20px;
+}
+
+section.video3.cid-tNbYUo143c{
+  padding-top:0;
+  padding-bottom: 0;
+}
+div#custom-html-v iframe,
+div#custom-html-o iframe {
+  width: 100%;
+  overflow: scroll;
+}
+.display-bspe-legal{
+  max-width: 100%;
+  text-align: center;
+  padding-bottom: 20px;
+}
+section.footer2 ul li {
+  list-style: none;
+}
+
+section.footer2 ul {
+  padding-left: 0;
+}
+footer .card-header {
+  border-bottom: none;
+}

@@ -8,9 +8,16 @@ function Accordion({ title, children }) {
       <div className="card-header" role="tab">
         <button onClick={() => setIsOpen(!isOpen)} className="panel-title">
           <h6 className="mbr-fonts-style mb-0 display-7">{title}</h6>
+          {isOpen ? (
+            <span className="dashicons dashicons-arrow-up-alt2"></span>
+          ) : (
+            <span className="dashicons dashicons-arrow-down-alt2"></span>
+          )}
         </button>
       </div>
-      {isOpen && <div className="panel-body">{children}</div>}
+      <div className={`panel-body ${isOpen ? 'open' : ''}`}>
+        {children}
+      </div>
     </div>
   );
 }

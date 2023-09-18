@@ -56,16 +56,17 @@ export default function Intro() {
               <div id="accordion_1" className="panel-group accordionStyles accordion" role="tablist" aria-multiselectable="true">
               
               <Accordion title="What Are Personal Injury Claims?">
-                Accidents and injuries can give rise to personal injury claims arising from a variety of situations, such as car collisions, slips and falls, or incidents in the workplace. When confronted with such circumstances, enlisting the aid of a proficient personal injury attorney becomes of paramount importance. These legal experts specialize in advocating for individuals who have suffered harm due to the recklessness or misconduct of others.
+                <p>Accidents and injuries can give rise to personal injury claims arising from a variety of situations, such as car collisions, slips and falls, or incidents in the workplace. When confronted with such circumstances, enlisting the aid of a proficient personal injury attorney becomes of paramount importance. These legal experts specialize in advocating for individuals who have suffered harm due to the recklessness or misconduct of others.</p>
 
-                The central role of a personal injury lawyer entails championing your rights and facilitating the pursuit of rightful compensation. Armed with an in-depth comprehension of personal injury legislation, these attorneys adeptly navigate the legal landscape on your behalf. By securing the services of a personal injury lawyer, you ensure that your case is handled with utmost professionalism, thereby enhancing your prospects of attaining a favorable resolution.
+                <p>The central role of a personal injury lawyer entails championing your rights and facilitating the pursuit of rightful compensation. Armed with an in-depth comprehension of personal injury legislation, these attorneys adeptly navigate the legal landscape on your behalf. By securing the services of a personal injury lawyer, you ensure that your case is handled with utmost professionalism, thereby enhancing your prospects of attaining a favorable resolution.</p>
 
-                Within the context of a personal injury claim, a myriad of factors converge to determine the potential compensation you might be eligible for. These factors encompass medical expenditures, income loss, emotional anguish, and the toll of physical suffering. A proficient personal injury lawyer meticulously scrutinizes the particulars of your case and assembles pertinent evidence to construct a compelling argument in your favor.
+                <p>Within the context of a personal injury claim, a myriad of factors converge to determine the potential compensation you might be eligible for. These factors encompass medical expenditures, income loss, emotional anguish, and the toll of physical suffering. A proficient personal injury lawyer meticulously scrutinizes the particulars of your case and assembles pertinent evidence to construct a compelling argument in your favor.</p>
 
-                In the realm of personal injury claims within Manhattan, the presence of a knowledgeable attorney can prove transformative. A Manhattan personal injury lawyer is well-versed in the local legal codes and statutes, thereby affording you invaluable guidance and bolstering your stance throughout the legal trajectory. Their specialized proficiency safeguards your entitlements and culminates in the equitable reparation for the injuries you have sustained.
+                <p>In the realm of personal injury claims within Manhattan, the presence of a knowledgeable attorney can prove transformative. A Manhattan personal injury lawyer is well-versed in the local legal codes and statutes, thereby affording you invaluable guidance and bolstering your stance throughout the legal trajectory. Their specialized proficiency safeguards your entitlements and culminates in the equitable reparation for the injuries you have sustained.</p>
 
-                Navigating the intricacies of personal injury claims is a multifaceted legal affair that mandates the dexterity of a personal injury lawyer. Should you find yourself ensnared in a scenario wherein you've incurred injury due to another party's negligence, the imperative is to promptly secure legal counsel. A seasoned personal injury lawyer is resolute in safeguarding your interests and relentlessly endeavors to secure the restitution you are entitled to.
+                <p>Navigating the intricacies of personal injury claims is a multifaceted legal affair that mandates the dexterity of a personal injury lawyer. Should you find yourself ensnared in a scenario wherein you've incurred injury due to another party's negligence, the imperative is to promptly secure legal counsel. A seasoned personal injury lawyer is resolute in safeguarding your interests and relentlessly endeavors to secure the restitution you are entitled to.</p>
               </Accordion>
+
 
               <Accordion title="What is a Manhattan Accident Compensation Lawyer?">
                 Experiencing an accident can have profound, lasting effects on both your physical well-being and your emotional state. In such challenging times, it is imperative to engage the expertise of a Manhattan accident compensation attorney who specializes in cases involving personal injury. These legal professionals possess the acumen and insights required to shepherd you through the legal maze, aiding you in pursuing the rightful restitution that corresponds to your situation.
@@ -122,42 +123,42 @@ export default function Intro() {
         </div>
       </section>
       <section className="video3 cid-tNbYUo143c">
-        <div className="container">
-          <div className="row mt-4">
-            
-            {/* Video 1 */}
-            <div className="col-12 col-md-6 video-block">
-              <div className="video-wrapper">
-                <iframe 
-                  className="mbr-embedded-video" 
-                  src="https://www.youtube.com/embed/OUqyqZg65D4?rel=0&amp;&amp;showinfo=0&amp;autoplay=0&amp;loop=0" 
-                  width="1280" 
-                  height="720" 
-                  frameBorder="0" 
-                  allowFullScreen 
-                  style={{height: "353px"}}
-                ></iframe>
-              </div>
+      <div className="container mx-auto px-4">
+        <div className="flex flex-wrap mt-4">
+          
+          {/* Video 1 */}
+          <div className="w-full md:w-1/2 video-block">
+            <div className="video-wrapper">
+              <iframe 
+                className="mbr-embedded-video" 
+                src="https://www.youtube.com/embed/OUqyqZg65D4?rel=0&amp;&amp;showinfo=0&amp;autoplay=0&amp;loop=0" 
+                width="1280" 
+                height="720" 
+                frameBorder="0" 
+                allowFullScreen 
+                style={{height: "353px"}}
+              ></iframe>
             </div>
-
-            {/* Video 2 */}
-            <div className="col-12 col-md-6 video-block">
-              <div className="video-wrapper">
-                <iframe 
-                  className="mbr-embedded-video" 
-                  src="https://www.youtube.com/embed/E65IoivlMGI?rel=0&amp;&amp;showinfo=0&amp;autoplay=0&amp;loop=0" 
-                  width="1280" 
-                  height="720" 
-                  frameBorder="0" 
-                  allowFullScreen 
-                  style={{height: "353px"}}
-                ></iframe>
-              </div>
-            </div>
-
           </div>
+
+          {/* Video 2 */}
+          <div className="w-full md:w-1/2 video-block">
+            <div className="video-wrapper">
+              <iframe 
+                className="mbr-embedded-video" 
+                src="https://www.youtube.com/embed/E65IoivlMGI?rel=0&amp;&amp;showinfo=0&amp;autoplay=0&amp;loop=0" 
+                width="1280" 
+                height="720" 
+                frameBorder="0" 
+                allowFullScreen 
+                style={{height: "353px"}}
+              ></iframe>
+            </div>
+          </div>
+
         </div>
-      </section>
+      </div>
+    </section>
       <div id="custom-html-v">
         <div>
           <iframe 
@@ -174,7 +175,7 @@ export default function Intro() {
       </div>
       <div id="custom-html-o">
       <div>
-        <h2 className="display-1">BSPE Legal Marketing</h2>
+        <h2 className="display-1 display-bspe-legal">BSPE Legal Marketing</h2>
         
         <iframe 
           src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3024.667899926605!2d-73.9878342!3d40.7033112!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a33c8ef7855%3A0x909fe01aa225e5c5!2sBSPE%20Legal%20Marketing!5e0!3m2!1sen!2sus!4v1689619826533!5m2!1sen!2sus" 
