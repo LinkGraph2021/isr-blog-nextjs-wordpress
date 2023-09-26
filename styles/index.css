@@ -26,6 +26,7 @@ body {
   line-height: 1.1;
   width: 100%;
   max-width: 400px;
+  color: white;
 }
 .display-1 > .mbr-iconfont {
   font-size: 5.75rem;
@@ -1465,7 +1466,8 @@ a {
   }
 }
 .cid-t9fGBrS5Op {
-  background-color: #40b0bf;
+  background: #17181B;
+  padding: 50px 0;
 }
 .cid-t9fGBrS5Op .mbr-fallback-image.disabled {
   display: none;
@@ -2033,4 +2035,8 @@ section.footer2 ul {
 }
 footer .card-header {
   border-bottom: none;
+}
+
+#accordion_1 .open {
+  max-height: 1315px;
 }

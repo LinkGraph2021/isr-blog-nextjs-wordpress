@@ -14,13 +14,13 @@ export default function Footer() {
             {/* Column 1 */}
             <div className="w-full md:w-1/3 px-4">
               <h5 className="text-lg font-bold mb-2">
-                BSPE Legal Marketing
+                SearchAtlas
               </h5>
               <ul className="list-decimal pl-5">
                 <li className="mb-2">Company Website:</li>
                 <li>
-                  <a href="https://bsplegalmarketing.com/law-firm-marketing-seo-brooklyn-ny" className="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">
-                    www.bsplegalmarketing.com/law-firm-marketing-seo-brooklyn-ny
+                  <a href="http://www.searchatlas.com" className="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">
+                    www.searchatlas.com
                   </a>
                 </li>
               </ul>
@@ -33,18 +33,18 @@ export default function Footer() {
               </h5>
               <ul className="list-decimal pl-5">
                 <li className="mb-2">
-                  <a href="https://www.google.com/maps?cid=10421294467752781253" className="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">
-                    personal injury
+                  <a href="https://searchatlas.com/backlink-analyzer/" className="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">
+                    Backlink Analyzer
                   </a>
                 </li>
                 <li className="mb-2">
-                  <a href="https://bspe-legal-marketing.business.site/" className="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">
-                    car accidents
+                  <a href="https://searchatlas.com/enterprise-seo-software/" className="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">
+                    Enterprise SEO Software
                   </a>
                 </li>
                 <li>
-                  <a href="https://bspe-legal-marketing.business.site/" className="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">
-                    slip and fall
+                  <a href="https://searchatlas.com/da-checker/" className="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">
+                    DA Checker
                   </a>
                 </li>
               </ul>
@@ -57,23 +57,23 @@ export default function Footer() {
               </h5>
               <ul className="list-decimal pl-5">
                 <li className="mb-2">
-                  <a href="https://www.facebook.com/brooklynseocompanypro" className="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">
-                    workers compensation
+                  <a href="https://www.instagram.com/searchatlasseo/" className="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">
+                    Instagram
                   </a>
                 </li>
                 <li className="mb-2">
-                  <a href="https://www.youtube.com/@bspelegalmarketing5623" className="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">
-                    accident injuries
+                  <a href="https://twitter.com/LinkGraphSEO" className="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">
+                    Twitter
                   </a>
                 </li>
                 <li className="mb-2">
-                  <a href="https://twitter.com/altmanviktoria" className="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">
-                    premises liability
+                  <a href="https://www.linkedin.com/company/linkgraph" className="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">
+                    LinkedIn
                   </a>
                 </li>
                 <li>
-                  <a href="https://www.pinterest.com/BSPELegalMarketing/" className="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">
-                    truck accident injury
+                  <a href="https://www.facebook.com/linkgraphseo" className="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">
+                    Facebook
                   </a>
                 </li>
               </ul>
@@ -89,67 +89,44 @@ export default function Footer() {
               <div id="accordion_1" className="panel-group accordionStyles accordion" role="tablist" aria-multiselectable="true">
               
               <Accordion title=" ">
-                1. **Construction accident lawyer in Brooklyn, NY** - Have you been injured in a construction site accident and need an attorney?
-                - Yes, I specialize in representing individuals who have been injured in construction site accidents in Brooklyn.
-                2. **What are the most common construction accident injuries in Brooklyn, New York?**
-                - The most common construction accident injuries in Brooklyn, New York, include falls from heights, scaffolding accidents, electrical injuries, machinery accidents, and more.
-                3. **What statutes of limitations exist for filing construction accident lawsuits?**
-                - Statutes of limitations for filing construction accident lawsuits can vary depending on the specific circumstances of the case. It's important to consult an attorney to understand the applicable deadlines.
-                4. **What damages can an attorney help me recover from a construction accident injury?**
-                - An attorney can help you recover various damages, including medical expenses, lost wages, pain and suffering, rehabilitation costs, and potentially punitive damages in cases of gross negligence.
-                5. **Construction accident lawyer** - Hurt in a construction accident?
-                - If you've been injured in a construction accident in Brooklyn, I can provide legal representation to help you pursue compensation for your injuries.
-                6. **Can an owner or general contractor be held liable for my injury under local law if I am a subcontractor?**
-                - Yes, under local law, owners and general contractors can be held liable for injuries suffered by subcontractors on construction sites if their negligence contributed to the accident.
-                7. **Can another subcontractor be held liable for my injury under local law?**
-                - Yes, if the negligence of another subcontractor led to your injury on a construction site in Brooklyn, you may have grounds to hold them liable for damages.
-                8. **Who is liable in a construction accident?**
-                - Liability in a construction accident can involve multiple parties, including property owners, general contractors, subcontractors, equipment manufacturers, and more, depending on the circumstances of the accident.
-                9. **Who is held liable for construction site accidents?**
-                - Liability for construction site accidents can vary based on the roles and responsibilities of the parties involved. Property owners, contractors, and other relevant parties may be held liable.
-                10. **Who is liable for a dog bite?**
-                - In cases of dog bites, dog owners are generally liable for injuries caused by their dogs, provided the injured person was not trespassing or provoking the dog.
-                11. **Is it worth it to hire an injury lawyer for a construction accident?**
-                - Hiring an injury lawyer for a construction accident in Brooklyn can greatly increase your chances of obtaining fair compensation for your injuries and losses.
-                12. **What can a construction accident lawyer do to help in your case?**
-                - Our legal team can investigate the circumstances of your construction accident, gather evidence, negotiate with insurance companies, and represent your interests in court if needed.
-                13. **What types of injuries are associated with construction accidents?**
-                - Construction accidents can lead to various injuries, including broken bones, head injuries, spinal injuries, burns, and even fatalities.
-                14. **Should you have suffered a debilitating injury on the job, you are probably wondering who is liable for a construction site accident?**
-                - If you've suffered a debilitating injury on a construction site, liability could potentially fall on multiple parties, including property owners, contractors, and other relevant entities.
-                15. **How will a construction accident lawyer help you get maximum compensation?**
-                - A construction accident lawyer will use their expertise to assess the full extent of your damages, negotiate with insurance companies, and build a strong case to seek maximum compensation on your behalf.
-                16. **How does a local injury attorney investigate a construction accident case?**
-                - A local injury attorney will investigate a construction accident case by collecting evidence, interviewing witnesses, analyzing medical records, consulting experts, and examining the site of the accident.
-                17. **How can a construction accident attorney help you?**
-                - A construction accident attorney can provide legal guidance, investigate the circumstances of your accident, negotiate with insurance companies, and represent you in legal proceedings to secure compensation.
-                18. **What damages can construction accident victims claim?**
-                - Construction accident victims can claim damages such as medical expenses, lost wages, pain and suffering, rehabilitation costs, and other related losses.
-                19. **How do construction accident lawyers handle cases of construction accidents?**
-                - Construction accident lawyers likely handle cases by thoroughly investigating accidents, building strong legal arguments, negotiating settlements, and representing clients in court if necessary.
-                20. **Can I seek damages against third parties for a construction site accident?**
-                - Yes, you can seek damages against third parties, such as equipment manufacturers or subcontractors, if their negligence contributed to your construction site accident.
-                21. **Who can be held liable for a construction accident?**
-                - Liability for a construction accident can extend to property owners, contractors, subcontractors, manufacturers of faulty equipment, and others depending on the circumstances.
-                22. **How do attorneys handle depositions in a construction accident lawsuit?**
-                - Attorneys handling depositions in a construction accident lawsuit will question witnesses under oath to gather information and build their case. These depositions can be crucial in establishing liability.
-                23. **How long does it take to file a lawsuit after a construction site injury?**
-                - The timeframe for filing a lawsuit after a construction site injury can vary based on factors such as the nature of the injury and the applicable statutes of limitations.
-                24. **How can I find an affordable personal injury lawyer?**
-                - To find an affordable personal injury lawyer, you can research local attorneys, inquire about fees during initial consultations, and discuss payment options.
-                25. **How much does a construction accident lawyer charge?**
-                - The fees charged by a construction accident lawyer can vary, but they typically work on a contingency basis, meaning they only get paid if you receive compensation.
-                26. **When should I hire a construction accident lawyer?**
-                - You should consider hiring a construction accident lawyer as soon as possible after your accident to ensure timely investigation, evidence preservation, and adherence to legal deadlines.
-                27. **Need a construction accident attorney?**
-                - If you've been involved in a construction accident, I can provide you with the legal representation you need.
-                28. **Can I receive compensation for tennis elbow, bursitis, and similar injuries?**
-                - Yes, if these injuries are a result of a construction accident, you may be eligible to receive compensation for medical expenses, pain and suffering, and more.
-                29. **Can workers sue their employer for a construction accident?**
-                - Workers may have legal options to seek compensation after a construction accident caused by employer negligence or unsafe working conditions.
-                30. **Is your construction injury eligible for a workers comp claim?**
-                - Depending on the circumstances, your construction injury may be eligible for a workers' compensation claim, providing benefits for medical expenses and lost wages.
-                Please note that the modified questions and answers might not perfectly align in terms of grammar and coherence due to the removal of specific information. If you have any further questions or need clarification, feel free to ask.
+              <p style={{ display: 'block' }}>1. **Is SEO software worth it?**</p> Yes, SEO software is absolutely worth it for businesses. It streamlines the optimization process, helps you track progress, and provides valuable insights that can lead to improved rankings, increased organic traffic, and better online visibility.
+
+              <p style={{ display: 'block' }}>2. ***Does SEO work?**</p>
+              Yes, SEO works when executed properly. It involves optimizing your website to meet search engine guidelines and user expectations, which can lead to higher search engine rankings and increased organic traffic. SEO is an ongoing process that requires dedication and expertise to see long-term results.
+
+                <p style={{ display: 'block' }}>3. **Who does SEO?**</p>
+                SEO can be done by in-house SEO specialists, digital marketing teams, or outsourced to SEO agencies in New York. It's essential to have professionals who understand the latest SEO trends and best practices to achieve optimal results.
+
+                <p style={{ display: 'block' }}>4. **Does SEO cost money?**</p>
+                Yes, SEO does require an investment. Whether you do it in-house or hire an agency in New York, there are costs associated with tools, content creation, link building, and ongoing optimization efforts. The cost varies depending on the scope of your SEO campaign.
+                <p style={{ display: 'block' }}>5. **What does SEO services include?**</p> SEO services typically include keyword research, on-page optimization, content creation, link building, technical SEO, and regular performance tracking and reporting. These services are tailored to improve your website's search engine rankings and organic traffic.
+
+                <p style={{ display: 'block' }}>6. **Is SEO effective?**</p>
+                Yes, SEO is highly effective when implemented correctly. It can significantly increase your website's visibility on search engines, driving targeted traffic and helping you achieve your online goals.
+                <p style={{ display: 'block' }}>7. **Is SEO optimization worth it?**</p>
+                Absolutely, SEO optimization is worth it. It ensures that your website is well-structured, user-friendly, and ranks high in search results. This can lead to increased organic traffic, higher conversion rates, and a strong online presence.
+                <p style={{display: 'block'}}>8. **Why use SEO marketing?**</p>
+                SEO marketing is crucial because it helps your business reach potential customers who are actively searching for your products or services online. It's a cost-effective way to drive organic traffic, build credibility, and grow your online presence.
+                <p style={{display: 'block'}}>9. **Are SEO tools worth it?**</p>
+                Yes, SEO tools are worth it. They assist in keyword research, site audits, competitor analysis, and more, making your SEO efforts in New York more efficient and effective. Investing in the right tools can lead to better results and a higher return on investment.
+                <p style={{display: 'block'}}>10. **Does SEO still work?**</p>
+                Yes, SEO is continually evolving, but it still works. Search engines like Google are constantly updating their algorithms, which means staying up-to-date with SEO best practices is essential to maintain and improve your website's rankings.
+                <p style={{display: 'block'}}>11. **How much does SEO software cost?**</p>
+                The cost of SEO software can vary widely, depending on the features and capabilities you need. In New York, you can find SEO software options ranging from free to hundreds of dollars per month. It's essential to choose a tool that aligns with your specific requirements and budget.
+                <p style={{display: 'block'}}>12. **What is a software suite?**</p>
+                A software suite is a collection of software applications bundled together to provide a comprehensive solution for a specific purpose. In the context of SEO, it might include various tools and modules for keyword research, site auditing, rank tracking, and more, all integrated into one package.
+                <p style={{display: 'block'}}>13. **What is an example of a software suite?**</p>
+                An example of a software suite for SEO is "SearchAtlas SEO Software Suite," which includes a range of tools and features designed to enhance a website's search engine optimization efforts in New York and beyond.
+                <p style={{display: 'block'}}>14. **What is SEO suite?**</p>
+                An SEO suite is a package or collection of SEO tools and features designed to address various aspects of search engine optimization. It helps streamline the SEO process and improve a website's performance in search engine rankings for New York-specific or broader audiences.
+                <p style={{display: 'block'}}>15. **What is SEO support?**</p>
+                SEO support refers to the assistance and guidance provided by SEO specialists or agencies in New York to help businesses optimize their websites. It includes services like keyword research, on-page optimization, technical fixes, and ongoing consultation to improve SEO performance.
+                <p style={{display: 'block'}}>16. **Which is the best software for SEO?**</p>
+                The best SEO software for you in New York depends on your specific needs and goals. Popular options include SEMrush, Ahrefs, Moz, and SearchAtlas SEO Software Suite. It's essential to evaluate your requirements and budget to choose the most suitable tool.
+                <p style={{display: 'block'}}>17. **Why is SEO so expensive?**</p>
+                SEO can be expensive due to the expertise required, ongoing optimization efforts, and the competitive nature of the digital landscape in New York. Costs also depend on the scale of your SEO campaign and the level of customization needed.
+                <p style={{display: 'block'}}>18. **Why is SEO so important?**</p>
+                SEO is crucial because it helps businesses and beyond increase their online visibility, attract organic traffic, and compete effectively in the digital marketplace. It directly impacts your website's rankings on search engines, which can lead to increased brand visibility and revenue.
               </Accordion>
 
             </div>
