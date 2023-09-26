@@ -8,7 +8,7 @@ export default function Header() {
           <div className="navbar-brand">
             <span className="navbar-caption-wrap">
               <Link href="#" className="navbar-caption text-black display-7">
-                Personal Injury Attorney
+                SEO Software Suite
               </Link>
             </span>
           </div>
