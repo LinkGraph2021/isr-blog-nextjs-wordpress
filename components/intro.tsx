@@ -62,28 +62,26 @@ export default function Intro() {
               </div>
               <div id="accordion_1" className="panel-group accordionStyles accordion" role="tablist" aria-multiselectable="true">
               
-              <Accordion title="What is SEO software, and why do I need it?">
-                <p>SEO (Search Engine Optimization) software is a set of tools and applications designed to help businesses and website owners improve their online visibility by optimizing their website for search engines like Google. You need an <a href="https://searchatlas.com/">SEO software suite</a> to analyze, track, and enhance your website's performance to rank higher in search engine results and drive more organic traffic.</p>
+              <Accordion title={process.env.FAQ_QUESTION_1 || "What is SEO software, and why do I need it?"}>
+                <p>{process.env.FAQ_ANSWER_1 || "SEO (Search Engine Optimization) software is a set of tools and applications designed to help businesses and website owners improve their online visibility by optimizing their website for search engines like Google. You need an "}<a href="https://searchatlas.com/">{process.env.FAQ_LINK_TEXT_1 || "SEO software suite"}</a>{process.env.FAQ_ANSWER_1_CONT || " to analyze, track, and enhance your website's performance to rank higher in search engine results and drive more organic traffic."}</p>
               </Accordion>
 
-
-              <Accordion title="What are the typical features of SEO software?">
-              <p style={{ display: 'block' }}>SEO software usually includes features such as:</p>
-              <ul>
-                <li>- Keyword research and analysis.</li>
-                <li>- Site audit and on-page optimization recommendations.</li>
-                <li>- Backlink analysis and management.</li>
-                <li>- Rank tracking and monitoring.</li>
-                <li>- Competitor analysis.</li>
-                <li>- Content optimization suggestions.</li>
-                <li>- Reporting and analytics.</li>
-              </ul>
+              <Accordion title={process.env.FAQ_QUESTION_2 || "What are the typical features of SEO software?"}>
+                <p style={{ display: 'block' }}>{process.env.FAQ_ANSWER_2 || "SEO software usually includes features such as:"}</p>
+                <ul>
+                  <li>{process.env.FAQ_ANSWER_2_ITEM_1 || "- Keyword research and analysis."}</li>
+                  <li>{process.env.FAQ_ANSWER_2_ITEM_2 || "- Site audit and on-page optimization recommendations."}</li>
+                  <li>{process.env.FAQ_ANSWER_2_ITEM_3 || "- Backlink analysis and management."}</li>
+                  <li>{process.env.FAQ_ANSWER_2_ITEM_4 || "- Rank tracking and monitoring."}</li>
+                  <li>{process.env.FAQ_ANSWER_2_ITEM_5 || "- Competitor analysis."}</li>
+                  <li>{process.env.FAQ_ANSWER_2_ITEM_6 || "- Content optimization suggestions."}</li>
+                  <li>{process.env.FAQ_ANSWER_2_ITEM_7 || "- Reporting and analytics."}</li>
+                </ul>
               </Accordion>
 
-              <Accordion title="Do I need technical expertise to use SEO software effectively?">
-                While technical expertise can be beneficial, many SEO software tools are designed to be user-friendly and require no specialized technical skills. Most tools offer guides and tutorials to help users navigate and make the most of their features.
+              <Accordion title={process.env.FAQ_QUESTION_3 || "Do I need technical expertise to use SEO software effectively?"}>
+                <p>{process.env.FAQ_ANSWER_3 || "While technical expertise can be beneficial, many SEO software tools are designed to be user-friendly and require no specialized technical skills. Most tools offer guides and tutorials to help users navigate and make the most of their features."}</p>
               </Accordion>
-
             </div>
             </div>
           </div>
