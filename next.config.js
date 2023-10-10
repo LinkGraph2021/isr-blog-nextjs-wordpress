@@ -8,6 +8,10 @@ if (!process.env.WORDPRESS_API_URL) {
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export', // Added for static export
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9d756866956a129f93ad230c95b2faa3579773d5
   images: {
     unoptimized: true, // Disabling the Image Optimization API
     domains: [
