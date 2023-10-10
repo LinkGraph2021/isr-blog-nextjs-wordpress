@@ -6,7 +6,9 @@ if (!process.env.WORDPRESS_API_URL) {
 }
 
 /** @type {import('next').NextConfig} */
-module.exports = {
+const nextConfig = {
+  output: 'export', // Added for static export
+
   images: {
     domains: [
       process.env.WORDPRESS_API_URL.match(/(?!(w+)\.)\w*(?:\w+\.)+\w+/)[0], // Valid WP Image domain.
@@ -17,3 +19,5 @@ module.exports = {
     ],
   }
 }
+
+module.exports = nextConfig;
