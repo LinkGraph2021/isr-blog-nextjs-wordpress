@@ -18,6 +18,7 @@ export default function Index({ allPosts: { edges }, preview }) {
       <Head>
         <title>{`Next.js Blog Example with ${CMS_NAME}`}</title>
         <link href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500&display=swap" rel="stylesheet" />
+        <meta name="google-site-verification" content="o2sZADWqe7zUKEoQoo9oWxbBDsSqa4fUgHTn1m1jgHE" />
       </Head>
       <Container>
         <Header/>
